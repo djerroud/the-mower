@@ -1,0 +1,15 @@
+{
+  "name": "the-mower",
+  "version": "1.0.0",
+  "description": "The lawn mower",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Yacine DJERROUD",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
